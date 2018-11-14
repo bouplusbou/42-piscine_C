@@ -1,0 +1,5 @@
+Credentials cache: API:D5B315A0-40CF-41CA-A9D7-7D52A00417CF
+        Principal: bboucher@42.FR
+
+  Issued                Expires               Principal
+Aug 27 12:59:40 2018  Sep  3 12:59:30 2018  krbtgt/42.FR@42.FR
